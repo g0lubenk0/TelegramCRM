@@ -17,6 +17,9 @@
                     <a href="index.php?page=roles" class="nav-link">Roles</a>
                 </li>
                 <li class="nav-item">
+                    <a href="index.php?page=pages" class="nav-link">Pages</a>
+                </li>
+                <li class="nav-item">
                     <a href="index.php?page=roles&action=create" class="nav-link">New Role</a>
                 </li>
                 <li class="nav-item">

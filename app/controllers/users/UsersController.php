@@ -1,6 +1,6 @@
 <?php
-require_once 'app/models/User.php';
-require_once 'app/models/roles/Role.php';
+require_once 'app/models/UserModel.php';
+require_once 'app/models/roles/RoleModel.php';
 
 class UsersController
 {
